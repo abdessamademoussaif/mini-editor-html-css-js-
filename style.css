@@ -38,11 +38,18 @@ label{
     position: absolute;
     top: 10px;
 }
+
 i{
-    color: white;
+    color: rgb(174, 65, 189);
 
 }
-a{
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+  }
+ a{
     text-decoration: none;
     color:#000;
     margin-left: 6px;
