@@ -42,3 +42,11 @@ i{
     color: white;
 
 }
+a{
+    text-decoration: none;
+    color:#000;
+    margin-left: 6px;
+  }
+  footer small i{
+    color: rgb(78, 63, 77);
+  }
